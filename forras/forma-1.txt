@@ -1,0 +1,36 @@
+14;Ferrari;F8;2022;327
+15;Ferrari;F8;2022;656
+18;Ferrari;F12tdf;2017;1077
+19;Ferrari;488;2019;1254
+20;Ferrari;812;2021;2227
+21;Ferrari;812;2021;2227
+22;Ferrari;F8;2021;2455
+29;Ferrari;812;2020;3305
+30;Ferrari;Portofino;2019;3800
+31;Ferrari;812;2018;4078
+33;Ferrari;488;2019;4711
+34;Ferrari;Portofino;2019;4737
+35;Ferrari;812;2021;5027
+36;Ferrari;812;2021;5027
+41;Ferrari;F8;2022;6008
+52;Ferrari;458;2014;7955
+64;Ferrari;FF;2015;16592
+65;Ferrari;458;2013;18462
+67;Ferrari;458;2012;24751
+73;Ferrari;Roma;2021;763
+89;Ferrari;Roma;2021;5257
+110;Aston Martin;Martin;2022;4703
+111;Aston Martin;Martin;2022;4703
+125;Ferrari;F8;2021;900
+142;Ferrari;F8;2022;6000
+151;Ferrari;Portofino;2019;9959
+154;Ferrari;488;2019;11710
+158;Ferrari;California;2017;12797
+159;Ferrari;California;2017;12797
+162;Ferrari;California;2017;14000
+163;Ferrari;California;2017;14000
+176;Ferrari;458;2015;20000
+177;Ferrari;458;2015;20000
+185;Ferrari;458;2013;35900
+187;Ferrari;458;2013;39000
+192;Ferrari;GTC4Lusso;2018;59472
